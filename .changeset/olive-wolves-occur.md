@@ -2,4 +2,4 @@
 "@react-docgen/cli": patch
 ---
 
-update dependency chalk to v5.4.0
+update dependency commander to v13
