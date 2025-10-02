@@ -1,6 +1,6 @@
 {
   "name": "@react-docgen/cli",
-  "version": "3.0.0",
+  "version": "3.0.3",
   "description": "A CLI to extract information from React components for documentation generation.",
   "repository": {
     "type": "git",
@@ -31,11 +31,11 @@
   },
   "license": "MIT",
   "dependencies": {
-    "chalk": "5.4.1",
-    "commander": "13.1.0",
-    "debug": "4.4.1",
+    "chalk": "5.6.2",
+    "commander": "14.0.1",
+    "debug": "4.4.3",
     "fast-glob": "3.3.3",
-    "react-docgen": "workspace:8.0.0",
+    "react-docgen": "workspace:8.0.1",
     "slash": "5.1.0"
   },
   "devDependencies": {
